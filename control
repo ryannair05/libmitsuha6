@@ -1,0 +1,9 @@
+Package: com.ryannair05.libmitsuha6
+Name: libmitsuha6
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An advanced audio visualizer library for Mitsuha 6
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Development
+Depends: com.ryannair05.audiosnapshotserver2
